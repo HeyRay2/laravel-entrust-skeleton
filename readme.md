@@ -25,4 +25,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
-# laravel-entrust-skeleton
+
+ laravel-entrust-skeleton
+This is a skeleton Laravel 5.3 project with Zizaco Entrust roles and permissions integrated
+
+Laravel 5.3 details are available at: https://github.com/laravel/laravel
+
+Zizaco Entrust details are available at: https://github.com/Zizaco/entrust
+
+For compatibility with Laravel 5.3, the following Entrust "patch" has been applied to the skeleton: https://github.com/Zizaco/entrust/pull/649
